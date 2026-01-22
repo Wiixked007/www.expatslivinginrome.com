@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.www.expatslivinginrome.com	TRUE	/	FALSE	1999999999	__cf_bm	Akjna0BsHjgV60V6n1mBxUlgW5PikNqHtxqjZjbL8E0-1769045686-1.0.1.1-UsRvNadbMKCfN0FpGd63p0xpKiXIdl7BPfNzp90LLrMlFK1.x.jiazpDUYIjLYC1CggeATJ1gkkBp9AbTk_kc6ylUFveSTRaZyOrGERIVI8
-www.expatslivinginrome.com	TRUE	/	FALSE	1999999999	SameSite	None
-
